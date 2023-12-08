@@ -1,1 +1,3 @@
-# Rotation of Matrices by 90 and 180 degrees 
+# matrix_rotation 
+<br>
+rotate 2 matrices one by 90 degree and other by 180 and add both
