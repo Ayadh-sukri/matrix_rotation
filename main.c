@@ -1,4 +1,5 @@
 #include"main.h"
+#if 1
 
 int main()
 
@@ -53,3 +54,4 @@ int main()
 		printf("\n");
 	}
 }
+#endif
